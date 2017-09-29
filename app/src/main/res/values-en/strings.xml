@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">N Live</string>
+
+    <string name="action_settings">settings</string>
+    <string name="loading">loading...</string>
+    <string name="copy_success">copy successful</string>
+    <string name="tip_no_internet">no currently available network connection</string>
+    <string name="login_success">login successful</string>
+    <string name="message">my income</string>
+    <string name="blog">my rank</string>
+    <string name="team">set up</string>
+    <string name="user_score">integral</string>
+    <string name="favorite">favorite</string>
+    <string name="following">follow</string>
+    <string name="follower">fans</string>
+    <string name="my_information_unlogin_tips">not logged in</string>
+    <!-- Error View -->
+    <string name="error_view_click_to_refresh">click on the screen to reload</string>
+    <string name="error_view_no_data">no content yet</string>
+    <string name="error_view_loading">lading…</string>
+    <string name="error_view_load_error_click_to_refresh">failed to load\r\nClick Reload</string>
+    <string name="error_view_network_error_click_to_refresh">no network available</string>
+    <string name="tip_network_error">no network available</string>
+    <string name="user_live">live</string>
+    <string name="loginout">loginout</string>
+    <string name="editInfo">edit information</string>
+    <string name="editnickpromp">nickname up to 8 words</string>
+    <string name="editsignpromp">enter up to 20 words</string>
+    <string name="selectphotoonalbu">select from album</string>
+    <string name="selectphotooncamera">take pictures</string>
+    <string name="balance">account balance</string>
+    <string name="select_pay">please select mode of payment</string>
+    <string name="myleve">leve</string>
+    <string name="editsuccess">successfully modified</string>
+    <string name="editfail">fail to edit</string>
+    <string name="wxpay">WeChat payment</string>
+    <string name="alipay">Ali-Pay payment</string>
+    <string name="myprofit">my income</string>
+    <string name="commonproblem">common problem</string>
+    <string name="setting">setting</string>
+    <string name="pushmanage">push management</string>
+    <string name="about">about us</string>
+    <string name="feedback">customer feedback</string>
+    <string name="blanklist">blacklist</string>
+    <string name="attention">attention</string>
+    <string name="hot">popular</string>
+    <string name="daren">newest</string>
+    <string name="position">location</string>
+    <string name="attentionlive">concerned friends live</string>
+    <string name="attention_title1">your friends are quiet and quiet</string>
+    <string name="attention_title2">at this point there is no live</string>
+    <string name="attention_title3">to see the new exciting live</string>
+    <string name="lookin">looking at</string>
+    <string name="gobackindex">return to the home page</string>
+    <string name="liveend">the live is over</string>
+    <string name="sendchat">send</string>
+    <string name="create_edit_text_hint">write a title to the live bar</string>
+    <string name="startLive">start live</string>
+    <string name="plasesettitle">please set a title</string>
+    <string name="iscloselive">whether to close the live broadcast</string>
+    <string name="livestart">live starts</string>
+    <string name="sendgift">send</string>
+    <string name="senderror">gift failed, please try again</string>
+    <string name="liansendgift">send</string>
+    <string name="report">report</string>
+    <string name="follow2">attention</string>
+    <string name="reply">reply</string>
+    <string name="home">home</string>
+    <string name="default_address">Is it on Mars?</string>
+    <string name="follow">focus on the anchor</string>
+    <string name="alreadyfollow">has been concerned</string>
+    <string name="age">age</string>
+    <string name="number">ID</string>
+    <string name="sign">signature</string>
+    <string name="live">live</string>
+    <string name="fans">fans</string>
+    <string name="privatechat">privatechat</string>
+    <string name="lahei">pull black</string>
+    <string name="manage">management</string>
+    <string name="no1">No.1</string>
+    <string name="no2">No.2</string>
+    <string name="no3">No.3</string>
+    <string name="paymode">payment method:</string>
+    <string name="defaultsign">Did not write a signature</string>
+    <string name="send">send</string>
+    <string name="testin">Testing,please wait...</string>
+    <string name="liverecord">live recording</string>
+    <string name="friends">friends</string>
+    <string name="nofollow">nofollow</string>
+    <string name="payresult">Pay the results</string>
+    <string name="complete">finished</string>
+    <string name="area">area</string>
+    <string name="search">search</string>
+    <string name="default_prompt">The whole world is waiting for you to live</string>
+    <string name="reportsuccess">report success</string>
+    <string name="pullblack">pull black</string>
+    <string name="relieveblack">to lift the black</string>
+    <string name="blacklist">blacklist</string>
+    <string name="plase_input_email">Please fill in cell email</string>
+    <string name="plase_input_phone_num">Please fill in cell phone number</string>
+    <string name="plase_check_you_num_is_correct">Please check if the phone number is entered correctly</string>
+    <string name="codehasbeensend">The  code has been sent</string>
+    <string name="livestartpush">live message reminder</string>
+    <string name="push">push management</string>
+    <string name="determine">determine</string>
+    <string name="startliveerror">failed to start</string>
+    <string name="searchmusic">search for music</string>
+    <string name="diange">song</string>
+    <string name="select">select</string>
+    <string name="download">download</string>
+    <string name="downloadError">download failed</string>
+    <string name="initDataError">Initialized data failed~</string>
+    <string name="musicEnd">End</string>
+    <string name="authenticate">apply for certification</string>
+    <string name="private_chat">private chat</string>
+    <string name="main_page">home</string>
+    <string name="change_pass">reset password</string>
+    <string name="sex">sex</string>
+    <string name="man">man</string>
+    <string name="weman">woman</string>
+    <string name="change_info">modify the information</string>
+    <string name="loading_error">loading error</string>
+    <string name="open_your_live">open your live now </string>
+    <string name="send_code">send code</string>
+    <string name="vaildate_code">PIN</string>
+    <string name="plase_fill_in_vaildate_code">Please fill in the SMS verification code</string>
+    <string name="pass">PW</string>
+    <string name="plase_fill_in_pass">Please fill in the PW</string>
+    <string name="confirm_pass">CFMD</string>
+    <string name="again_fill_in_pass">Please enter your PW again</string>
+    <string name="reset_pass">reset Password</string>
+    <string name="level">level</string>
+    <string name="live_record">live recording</string>
+    <string name="not_hava_live_record">There is no live record yet</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+    <string name="edit_info">edit information</string>
+    <string name="head">Avatar</string>
+    <string name="nick_name">nickname</string>
+    <string name="fill_in_birthday">Please enter your birthday</string>
+    <string name="not_have_live">There is no anchor yet</string>
+
+    <string name="immediate_register">sign up</string>
+    <string name="find_pass">retrieve the password</string>
+    <string name="immediate_login">sign in</string>
+    <string name="week_order">week list</string>
+    <string name="all_order">general list</string>
+    <string name="my_profit">my income</string>
+    <string name="can_cash_money">Can extract the amount</string>
+    <string name="day_can_cash_money">The amount that can be extracted today</string>
+    <string name="cash">withdraw</string>
+    <string name="pass_room">password room</string>
+    <string name="open_charge_mode">turn on billing mode</string>
+    <string name="money">amount of money</string>
+    <string name="clear_cache">clean up cache</string>
+    <string name="check_new">check for updates</string>
+    <string name="select_login_mode">please select the login method</string>
+    <string name="clause">Login means you agree to the Terms of Service and Privacy</string>
+    <string name="ignore_read">ignore</string>
+    <string name="cancel">cancel</string>
+    <string name="is_back">whether to exit</string>
+    <string name="live_num">watch the number of people</string>
+    <string name="search_hint">Please enter the nickname or ID to search</string>
+    <string name="input_money">Please enter the amount</string>
+    <string name="immediately_pay">Pay immediately</string>
+    <string name="close_live">close live</string>
+    <string name="disable_user">disable account number</string>
+    <string name="kick">kicking</string>
+    <string name="shutup">banned words</string>
+    <string name="set_manage">set to management</string>
+    <string name="manage_list">administrator list</string>
+    <string name="me">myself</string>
+    <string name="older_pass">old password</string>
+    <string name="input_older_pass">Please enter the old password</string>
+    <string name="new_pass">new password</string>
+    <string name="input_new_pass">Please enter a new password</string>
+    <string name="commit_pass">confirm password</string>
+    <string name="again_pass">Please enter your password again</string>
+    <string name="confirm_change">confirm the changes</string>
+    <string name="save">save</string>
+    <string name="birthday">birthday</string>
+    <string name="already_follow">has been concerned</string>
+    <string name="game_start_suporrt">start support</string>
+    <string name="game_stop">reveal the results</string>
+    <string name="login_awrad">welcome back！</string>
+    <string name="login_receive">receive</string>
+    <string name="motto">motto</string>
+    <string name="nolive">No live</string>
+    <string name="sound_adjustment">sound adjustment</string>
+    <string name="accompaniment">accompaniment</string>
+    <string name="voices">voices</string>
+    <string name="melodious">melodious</string>
+    <string name="charm_value">0 charm value</string>
+    <string name="account_number">ADM</string>
+    <string name="fill_in_code">Please fill in the SMS PIN</string>
+    <string name="fill_in_the_amount_of_cash">Please fill in the amount of cash</string>
+    <string name="live_setting">live setting</string>
+    <string name="beauty_type">beauty type:</string>
+    <string name="dermabrasion">buffing</string>
+    <string name="whitening">white</string>
+    <string name="rosy">rosy</string>
+    <string name="maintain_the_message">maintain the message</string>]
+    <string name="OK">OK</string>
+    <string name="agree">agree</string>
+    <string name="refuse">refuse</string>
+    <string name="seventh_day">seventh day</string>
+    <string name="onlywm">♡ Only looking for women</string>
+    <string name="onlyman">♡ Only looking for men</string>
+    <string name="every">♡ Find all</string>
+    <string name="failed_to_load">failed to load</string>
+    <string name="live_time">live time</string>
+    <string name="Fans">fans:0</string>
+    <string name="Attention">attention:0</string>
+    <string name="send_gift">send gift:0</string>
+    <string name="income">income:0</string>
+    <string name="Seen">seen</string>
+    <string name="first_day">first day</string>
+    <string name="hello_tomorrow">hello tomorrow</string>
+    <string name="is_being_broadcast_live">Is being broadcast live</string>
+    <string name="no_live">Has not been broadcast over Oh</string>
+    <string name="more_topics">more topics</string>
+    <string name="Live">Live</string>
+    <string name="sound">sound effect</string>
+    <string name="otherLog">Other way of landing</string>
+    <string name="Recharge">充值:</string>
+    <string name="cash_money">enter withdrawal amount</string>
+    <string name="username">username</string>
+
+
+    <string-array name="live_start_share_open">
+        <item>微博分享已开</item>
+        <item>微信分享已开</item>
+        <item>朋友圈分享已开</item>
+
+        <item>QQ分享已开</item>
+        <item>QQ空间分享已开</item>
+    </string-array>
+    <string-array name="live_start_share_close">
+        <item>微博分享已关</item>
+        <item>微信分享已关</item>
+        <item>朋友圈分享已关</item>
+        <item>QQ分享已关</item>
+        <item>QQ空间分享已关</item>
+    </string-array>
+
+    <!--高德地图-->
+    <string name="amp_val">2ec444fa426098bb1b8e5fc83dd2311e</string>
+    <!--bugly-->
+    <string name="bugly_val">203765ade7</string>
+    <!--极光推送-->
+    <string name="jpush_val">60c08192956aafd359134830</string>
+
+    <!--环信-->
+    <string name="huanxin">advance1989#demoynbao</string>
+    <string name="recharge">充值</string>
+</resources>

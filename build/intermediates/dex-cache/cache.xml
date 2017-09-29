@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\AMap_Location_V2.4.0_20160308.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd8aedb3d0d87b92777ab997ec883427d88f379a">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\AMap_Location_V2.4.0_20160308_acae826b58e52fc141cc94fe6688e9d488c1813c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-Core-2.7.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b060c818956585ebc16be9c034ba4970e5552d25">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-2.7.7_f7bd7f6f67c033d6074c2c93e5ea316a8fe17423\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-SinaWeibo-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d6f84355d4f6252240aebc751ba21eaea07e2dd">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\ShareSDK-SinaWeibo-2.7.7_300b4811eb38a145f431950b5c8734f28e246f73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\jpush-android-2.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99c80319fb45b23fbc516787fdd3cf8940fda4b2">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\jpush-android-2.1.9_9676b48fb9d3899bc49534afb28aa22a1cd20137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-Core-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b060c818956585ebc16be9c034ba4970e5552d25">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\ShareSDK-Core-2.7.7_f7bd7f6f67c033d6074c2c93e5ea316a8fe17423.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\jpush-android-2.1.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99c80319fb45b23fbc516787fdd3cf8940fda4b2">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-2.1.9_9676b48fb9d3899bc49534afb28aa22a1cd20137\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-SinaWeibo-2.7.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d6f84355d4f6252240aebc751ba21eaea07e2dd">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-2.7.7_300b4811eb38a145f431950b5c8734f28e246f73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_574be3b898874597a874e4c5e8768d7a53439a58\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\nineoldandroids-2.4.0_574be3b898874597a874e4c5e8768d7a53439a58.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\libksystat.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56e59e91b0ef2fcea9db6f2a1baff3c4aa03f7d3">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\libksystat_80158caf85447c2c25cc62524d7958046e5bff8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\MobCommons-2016.0830.1940.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca36dc249a46648f8c8f53ad5ee4a935e80956a8">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2016.0830.1940_29fc771c0d82f2471023b1523879c458ce136587\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-Wechat-2.7.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b97a04213d77372e90bbd280ad2149a0623e4e0b">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-2.7.7_2aa4633d64d37911f5157f7de05d221f370555fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\MobCommons-2016.0830.1940.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca36dc249a46648f8c8f53ad5ee4a935e80956a8">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\MobCommons-2016.0830.1940_29fc771c0d82f2471023b1523879c458ce136587.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-Wechat-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b97a04213d77372e90bbd280ad2149a0623e4e0b">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\ShareSDK-Wechat-2.7.7_2aa4633d64d37911f5157f7de05d221f370555fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-Wechat-Core-2.7.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7942d022e2d3d8ed7ccbaf17df22da2eeddddfff">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-2.7.7_62ed6f36a84da875612fc0105be7278d8b43739d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\MobTools-2016.0830.1940.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="210bf77409df74387b9df1d7987de310a2e0b145">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\MobTools-2016.0830.1940_19481d629fe2c3fa6b3fa3b867e3bd69b717f624.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\libksystat.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56e59e91b0ef2fcea9db6f2a1baff3c4aa03f7d3">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\libksystat_80158caf85447c2c25cc62524d7958046e5bff8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-Wechat-Core-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7942d022e2d3d8ed7ccbaf17df22da2eeddddfff">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\ShareSDK-Wechat-Core-2.7.7_62ed6f36a84da875612fc0105be7278d8b43739d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\alipaySDK-20151014.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ab493c0f7a15797cda937737d8924528f3cab02">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\alipaySDK-20151014_2fcfbde62863aee179f480b4802156c1975fa8c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\videoplayer\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055ce5d4f6295f338d9e08ec61b2a68463028d4b">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\classes_33aa8645d3e52462664295a98c44755abbfc5430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-QZone-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="558713df8d3cc7543375e51e63a0638aeb0e2e9f">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\ShareSDK-QZone-2.7.7_7b0f558756db482b11e62073ccf833ab1c424dfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-QQ-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b1593b719931c6c1902ab80998b7fb5cf73e488">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\ShareSDK-QQ-2.7.7_4ce1cf110548afc96e1f50577402bea1893c910b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-Wechat-Moments-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1029839bf5cfc4522366b1fc17eb30627fa5b431">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\ShareSDK-Wechat-Moments-2.7.7_361ae2ed33bc22218e67ab64d718ccba8eb40333.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\alipaySDK-20151014.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ab493c0f7a15797cda937737d8924528f3cab02">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySDK-20151014_2fcfbde62863aee179f480b4802156c1975fa8c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-QZone-2.7.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="558713df8d3cc7543375e51e63a0638aeb0e2e9f">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-2.7.7_7b0f558756db482b11e62073ccf833ab1c424dfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-Wechat-Moments-2.7.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1029839bf5cfc4522366b1fc17eb30627fa5b431">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Moments-2.7.7_361ae2ed33bc22218e67ab64d718ccba8eb40333\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-QQ-2.7.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b1593b719931c6c1902ab80998b7fb5cf73e488">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-2.7.7_4ce1cf110548afc96e1f50577402bea1893c910b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\libksyrtc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="178191a38bdfd46b1ea32eb866aa73b88c5d66e7">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\libksyrtc_60d32ea9a8398623e01473c2657fd4d83c2eafa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\MobTools-2016.0830.1940.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="210bf77409df74387b9df1d7987de310a2e0b145">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2016.0830.1940_19481d629fe2c3fa6b3fa3b867e3bd69b717f624\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\libksyrtc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="178191a38bdfd46b1ea32eb866aa73b88c5d66e7">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\libksyrtc_60d32ea9a8398623e01473c2657fd4d83c2eafa3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\bottomView.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fa32f8884cd4f0d50ea5875619cfcf82417a0a4">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\bottomView_76f5508a32e15d5000c82f7e9b4c4b4c6f5521c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\bottomView.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fa32f8884cd4f0d50ea5875619cfcf82417a0a4">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\bottomView_76f5508a32e15d5000c82f7e9b4c4b4c6f5521c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\videoplayer\build\intermediates\bundles\default\libs\clink210.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3fb54f015a72bed6726f38d9dacf4bd62d51d5bf">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\clink210_5feb1a2e2702d281ea8f7ebb47cc0ea101168655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-Wechat-Favorite-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2dfc7d48951c61423eb6a536e68c36579ad61ec5">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\ShareSDK-Wechat-Favorite-2.7.7_c8b1c800fc77ac60cb33d23e60ca082e2c225bca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\libksyplayer.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30a822c02df3b491d00a93bda2a82c3832aa0b70">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\libksyplayer_8320f5a4db5bdd170e2f530820659fc2df974917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_f5d28d263fc90cd65457c496cce952a5c960b072\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1f26f29ab0bc6d4d42c94cf250ea365e53d2880c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ksylive.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="939bbcab8c31211d76d05c07dcfc1189bdad0484">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\ksylive_41f6648e4cd73f63ed17ef93b22b2d5747c78ba0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\videoplayer\build\intermediates\bundles\default\libs\clink210.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3fb54f015a72bed6726f38d9dacf4bd62d51d5bf">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\8\clink210_5feb1a2e2702d281ea8f7ebb47cc0ea101168655\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\libammsdk_f5d28d263fc90cd65457c496cce952a5c960b072.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\libksyplayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30a822c02df3b491d00a93bda2a82c3832aa0b70">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\libksyplayer_8320f5a4db5bdd170e2f530820659fc2df974917.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\libjingle_peerconnection_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="423a14885fb4c5811c959d497e4a2e6fddec3921">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\libjingle_peerconnection_java_44e82834e1200e6ca8622b5e15578b5b6ebb0292\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\AMap_Location_V2.4.0_20160308.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd8aedb3d0d87b92777ab997ec883427d88f379a">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Location_V2.4.0_20160308_acae826b58e52fc141cc94fe6688e9d488c1813c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\libjingle_peerconnection_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="423a14885fb4c5811c959d497e4a2e6fddec3921">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\pre-dexed\release\libjingle_peerconnection_java_44e82834e1200e6ca8622b5e15578b5b6ebb0292.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2fdcf870982be5be3d822e847a357b6360472285">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8d365b2a120059bd4a797d638d218dd3d05be7a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ksylive.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="939bbcab8c31211d76d05c07dcfc1189bdad0484">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksylive_41f6648e4cd73f63ed17ef93b22b2d5747c78ba0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\jtpure\app\libs\ShareSDK-Wechat-Favorite-2.7.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2dfc7d48951c61423eb6a536e68c36579ad61ec5">
+        <dex dex="D:\AndroidStudioProjects\jtpure\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Favorite-2.7.7_c8b1c800fc77ac60cb33d23e60ca082e2c225bca\classes.dex" />
+    </item>
+
+</items>
